@@ -1,0 +1,7 @@
+{
+    "env": {
+        "ANTHROPIC_BASE_URL": "http://10.100.102.116:1234",
+        "ANTHROPIC_API_KEY": "sk-lm-dGMqw15M:z5FzUmnqRjbF0dqwGWGr"
+    },
+    "effortLevel": "high"
+}
